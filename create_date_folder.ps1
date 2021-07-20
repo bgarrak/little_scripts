@@ -11,6 +11,8 @@ if (Test-Path -Path $Folder) {
     "! Folder Already Exists !"
     ""
     ""
+    
+    Start-Sleep -Seconds 2 -Milliseconds 300
 
 } else {
 
@@ -20,6 +22,8 @@ if (Test-Path -Path $Folder) {
     ""
     ""
     "! Sucessfully Created a New Folder !"
+    
+    Start-Sleep -Seconds 2 -Milliseconds 300
 
 }
 
