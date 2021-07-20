@@ -12,7 +12,7 @@ if (Test-Path -Path $Folder) {
     ""
     ""
     
-    Start-Sleep -Seconds 2 -Milliseconds 300
+    Read-Host -Prompt "Press Enter to exit"
 
 } else {
 
@@ -24,8 +24,8 @@ if (Test-Path -Path $Folder) {
     "! Sucessfully Created a New Folder !"
     ""
     ""
-
-    Start-Sleep -Seconds 2 -Milliseconds 300
+    
+    Read-Host -Prompt "Press Enter to exit"
 
 
 }
