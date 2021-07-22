@@ -37,23 +37,7 @@ $filesToMove | ForEach-Object {
 
     ##############################################################################################################################
 
-    # ""
-    # ""
 
-    # "dateDirectoryMonth:'$dateDirectoryMonth' "
-
-    # "monthFolderPath: '$monthFolderPath' "
-
-    # "fileWriteMonth: '$fileWriteMonth' "
-
-    # "fileWriteMonth: '$fileWriteMonth' "
-
-    # "currentMonth: '$currentMonth' "
-
-    # "dayInMonthFolderPath: '$dayInMonthFolderPath' "
-
-    # ""
-    # ""
 
     ##############################################################################################################################
 
